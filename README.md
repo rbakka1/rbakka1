@@ -21,7 +21,7 @@
 [linkedin]: https://www.linkedin.com/in/ramyasree-bakka-34b92b247
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rbakka1/rbakka1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
