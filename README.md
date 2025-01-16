@@ -1,10 +1,14 @@
 <h1>Hi, I'm Ramya!</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Projects</b>
-  - <a href="https://github.com/rbakka1/Wireless-network-security/tree/main">Wireless Network Security Projects</a>
-
+<ul>
+  <li><b>Projects</b>
+    <ul>
+      <li><a href="https://github.com/rbakka1/Wireless-network-security/tree/main">Wireless Network Security Projects</a></li>
+      <li><a href="https://github.com/rbakka1/Network-security/tree/main">Network Security Projects</a></li>
+    </ul>
+  </li>
+</ul>
 
 <h2> 🤳 Connect with me:</h2>
 
