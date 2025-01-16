@@ -2,12 +2,8 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
-<h2>📺 Certifications</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>Projects</b>
+  - <a href="https://github.com/rbakka1/Wireless-network-security/tree/main">Wireless Network Security Projects</a>
 
 
 <h2> 🤳 Connect with me:</h2>
