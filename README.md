@@ -5,7 +5,7 @@
   <li><b>Projects</b>
     <ul>
       <li><a href="https://github.com/rbakka1/Wireless-network-security/tree/main">Wireless Network Security Projects</a></li>
-      <li><a href="https://github.com/rbakka1/Network-security/tree/main">Network Security Projects</a></li>
+      <li><a href="https://github.com/rbakka1/Network-security-Attacks/tree/main">Network Security Attacks</a></li>
       <li><a href="https://github.com/rbakka1/Web-application-security">Web Application Security Projects</a></li>
     </ul>
   </li>
