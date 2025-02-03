@@ -8,6 +8,7 @@
       <li><a href="https://github.com/rbakka1/Network-security-Attacks/tree/main">Network Security Attacks</a></li>
       <li><a href="https://github.com/rbakka1/Web-application-security">Web Application Security Projects</a></li>
       <li><a href="https://github.com/rbakka1/Network-securit-Tools/tree/main">Network Tools</a></li>
+      <li><a href="https://github.com/rbakka1/AWS">AWS Projects</a></li>
     </ul>
   </li>
 </ul>
